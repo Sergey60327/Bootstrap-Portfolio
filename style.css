@@ -1,0 +1,25 @@
+body {
+	background-color: lightblue;
+}
+/*.container{
+	background-color: lightblue;
+}
+.navbar navbar-default{
+	background-color: white;
+}*/
+
+#indexfooter {
+bottom : 0 auto;
+padding:10px;
+background-color:#666666;
+color: #E8E1E1;	
+width: 300px;
+text-align: center;
+border-width: 8px 0px 0px 0px;
+border-style: solid;
+border-color: #4aaaa5;
+font-size: x-small;
+font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+margin-top: 300px;
+margin-left: 0;
+}
